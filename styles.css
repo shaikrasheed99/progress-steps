@@ -43,7 +43,7 @@ body {
 
 .progress-line {
     width: 0;
-    height: 0.4vh;
+    height: 0.3vh;
     background-color: var(--line-border-fill);
     position: absolute;
     top: 50%;
